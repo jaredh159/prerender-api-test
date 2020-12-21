@@ -1,1 +1,2 @@
 /foo /foo.json 200
+/lol/* /lol/:splat.json 200
